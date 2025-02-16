@@ -1,4 +1,6 @@
 # lpp
 Linux programs pack (lpp)
 
-Hi, this is my git, and this is a Linux essentials pack where you can get all different types of programs with one command.
+SOME THINGS MIGHT NOT WORK ALSO, SO MAKE SURE YOUR SYSTEM IS DEBAIN-BASED, LIKE UBUNTU
+
+Hi, this is my git. It is a Linux essentials pack that allows you to install different programs with one command.
