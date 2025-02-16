@@ -1,0 +1,49 @@
+## Advanced Install Script
+
+### What Each Command Does:
+
+- `sudo apt update`: Fetches the list of available updates for installed packages.
+- `sudo apt upgrade -y`: Automatically installs the latest versions of all the packages.
+- `neofetch`: Displays system information in a visually appealing way.
+- `htop`: Interactive process viewer for system monitoring.
+- `btop`: Resource monitor that displays real-time CPU, memory, and disk usage.
+- `bpytop`: Python-based version of `btop`.
+- `tree`: Displays directory structure in a tree format.
+- `tmux`: Terminal multiplexer for managing multiple terminal sessions.
+- `unzip` & `zip`: For extracting and creating ZIP archives.
+- `curl`: Command-line tool for transferring data via URLs.
+- `wget`: Download files from the web.
+- `git`: Version control system for code management.
+- `nano`: A simple terminal text editor.
+- `vim`: A powerful, feature-rich text editor.
+- `neovim`: Modern and feature-rich version of `vim`.
+- `micro`: User-friendly terminal-based text editor.
+- `zsh`: Powerful interactive shell.
+- `fzf`: Command-line fuzzy file finder.
+- `bat`: A cat alternative with syntax highlighting.
+- `exa`: A modern alternative to `ls` for listing files.
+- `ripgrep`: Fast and recursive `grep` alternative.
+- `fd-find`: A faster alternative to `find`.
+- `jq`: Command-line tool for parsing JSON data.
+- `yq`: Command-line tool for parsing and querying YAML.
+- `tldr`: Simplified man pages for easier reference.
+- `ranger`: A terminal file manager with a user-friendly interface.
+- `build-essential`: Installs essential compilation tools for software building.
+- `python3`: Python 3 interpreter.
+- `python3-pip`: Package manager for installing Python packages.
+- `python3-venv`: Python virtual environment manager.
+- `gcc`: GNU C compiler.
+- `g++`: C++ compiler.
+- `clang`: C compiler alternative.
+- `make`: A build tool for compiling software.
+- `cmake`: Cross-platform software build system.
+- `nmap`: Network exploration and vulnerability scanning tool.
+- `net-tools`: Networking tools like `ifconfig`, `netstat`, etc.
+- `traceroute`: Shows the route data packets take to a network host.
+- `ufw`: Uncomplicated Firewall to configure firewall rules.
+- `fail2ban`: Prevents brute-force attacks on servers.
+- `openvpn`: VPN client software.
+- `sshuttle`: VPN-like proxy through SSH.
+- `gnupg`: GNU Privacy Guard for encryption and signing.
+- `seclists`: A collection of security testing wordlists.
+- `aria2`: Lightweight multi-protocol download utility.
