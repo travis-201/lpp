@@ -5,7 +5,7 @@ echo "Updating package lists..."
 sudo apt update && sudo apt upgrade -y
 
 # Installing modern essential programs
-echo "Installing essential programs..."
+echo "Installing modern programs..."
 sudo apt install -y neofetch && \
 htop && \
 btop && \
